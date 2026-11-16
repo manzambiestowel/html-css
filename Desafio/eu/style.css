@@ -3,7 +3,7 @@ font-family: sans-serif;
 background-color: #ddc574;
 }
 main{
-    background-color: #fff;
+    background-color: #ffffff;
 }
 header{
     background-image: linear-gradient(to right, #018001e5,#036b03e1);
@@ -29,14 +29,14 @@ main > h1{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-image: linear-gradient(to right, #88ec8896, #ebf3eb9f);
     padding: 4px;
-    margin: 12px;
+    margin: 10px;
 }
 main > h2{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-image: linear-gradient(to right, #88ec8896, #ebf3eb9f);
 }
 img{
-    width: 70%;
+    width: 75%;
 }
 .caixa{
   background-color: #9ef09e;
