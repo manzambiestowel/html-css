@@ -1,0 +1,43 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+ background-image: linear-gradient(to right, #fbfdfd,#edf8ffa1);
+}
+header{
+padding: 0px;
+    
+}
+nav{
+   background-color: #6c915e;
+   padding: 20px;
+  
+}
+nav > a{
+    text-decoration: none;
+    color: black;
+    margin-right: 50px;
+}
+nav > a:hover{
+    text-decoration: underline;
+}
+section{
+    background-color: rgb(183, 203, 219);
+    margin: auto;
+}
+    article{
+        padding: 10px;
+        margin: 2px;
+        color: #f58c02b4;
+        font-size: 30px;
+        
+    }
+    h2{
+        text-indent: 2px;   
+        color: #e09626;  
+    }
+    p{
+        text-align: justify;
+        text-decoration: none;
+        text-indent: 10px;
+        padding: 1px;
+    }
