@@ -17,15 +17,17 @@ p{
 }
 main{
     background-color: white;
-    min-width: 350;
-    max-width: 700;
-    padding: 15px;
+    min-width: 300;
+    max-width: 600;
+    padding: 25px;
     margin: auto;
     border-radius: 12px;
     box-shadow: 10px 10px 10px #d4817665;
 }
 
 marquee{
-    background-color: aliceblue;
-    color: #000000d2;
+    padding: 10px;
+    background-color:#eb9d9d48 ;
+    color: #312c2c7e;
+    box-shadow: 7px 7px 7px 7px #00000057;
 }
