@@ -3,29 +3,29 @@
 body{
     background-image: linear-gradient(to right, #df918318,#eb9d9d48);
 }
-h1{
+h1, h2{
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
     text-shadow: 1.5px 1.5px 1.5px rgb(231, 205, 174);
     text-align: center;
     color: #041a97c9;
 }
-h2{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
-    text-shadow: 1px 1px 1px rgb(105, 105, 107);
-    text-align: center;
-    color: #0c029eb7;
-}
 p{
     text-align: justify;
+    text-indent: 20px;
     
 }
 main{
     background-color: white;
-    width: 500px;
+    min-width: 350;
+    max-width: 700;
     padding: 15px;
     margin: auto;
-    border-radius: 5%;
-    box-shadow: 10px 10px 10px #d4817654;
+    border-radius: 12px;
+    box-shadow: 10px 10px 10px #d4817665;
+}
+
+marquee{
+    background-color: aliceblue;
+    color: black;
 }
